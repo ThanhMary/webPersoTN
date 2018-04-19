@@ -1,0 +1,51 @@
+body
+{
+background-color: blue;
+background-image: url("image/colombe.gif"); 
+background-repeat:no-repeat;
+background-position: center-left;
+}
+	
+ul{
+    display: table;
+    width: 500px;
+    margin: 100px auto;
+    padding: 0;
+}
+
+{
+    display: table-cell;
+}
+
+p,ul,li,td {
+	
+font-size : 100%; 
+font-family : Verdana, Arial, Helvetica, Geneva, sans-serif; 
+color : black; 
+background-color : white; 
+}
+
+h1 {
+font-size : 200%; 
+font-family : Verdana, Arial, Helvetica, Geneva, sans-serif;
+color : white; 
+text-align: center;
+}
+
+h2 {
+font-size : 150%; 
+font-family : Verdana, Arial, Helvetica, Geneva, sans-serif; 
+color : olives;
+padding-left:15px;
+text-align: center;
+}
+
+a:link {color: green; text-decoration:underline;}
+a:visited {color: gray; text-decoration:underline;}
+a:hover {color:red; text-decoration:none;}
+
+
+
+
+
+
